@@ -32,7 +32,7 @@ int main()
     int sine;
     int tangent;
     
-    cout << "Enter 1 for addition. Enter 2 for subtraction. Enter 3 for multiplication. Enter 4 for division. Enter 5 for Square roots. Enter 6 for Cube roots. Enter 7 for cosine. Enter 8 for sine. Enter 9 for tangent:   ";
+    cout << "Enter 1 for addition. Enter 2 for subtraction. Enter 3 for multiplication. Enter 4 for division. Enter 5 for Square roots. Enter 6 for Cube roots. Enter 7 for cosine. Enter 8 for sine. Enter 9 for tangent: ";
     cin >> x;
     
     if(x==1){
